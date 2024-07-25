@@ -17,3 +17,5 @@ This Power BI project provides a comprehensive analysis of the modern Olympic Ga
 ### Preview of the Dashboard
 
 <img src="https://github.com/GaurabKundu1/Olympic-Glory-Across-Time-A-120-Year-Journey/assets/86102231/010340ae-6b71-4bdb-9cfb-9f85db1e2016">
+
+[The Dashboard can be accessed here](https://www.novypro.com/project/olympic-glory-across-time-a-120-year-journey-1)
